@@ -1,5 +1,5 @@
 # Monopoly Game
-#OOP Project
+#OOPs Project
 
 #Members:
 Yashveer Singh,Yogeshwar Dayal Agarwal,Varun Gupta,Akshay Soni
